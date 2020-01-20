@@ -6,7 +6,8 @@
   "repository": "github:frangio/template-typescript-ava",
   "main": "dist/index.js",
   "files": [
-    "/dist"
+    "/dist",
+    "!*.test.{js,js.map,d.ts}"
   ],
   "scripts": {
     "prepare": "tsc",
