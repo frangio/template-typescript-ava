@@ -8,13 +8,9 @@
     "strict": true,
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "target": "es2017",
     "outDir": "dist"
   },
   "include": [
     "src/**/*"
-  ],
-  "exclude": [
-    "*.test.ts"
   ]
 }
