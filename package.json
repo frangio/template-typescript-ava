@@ -18,7 +18,7 @@
     "@types/node": "^10.17.27",
     "ava": "^3.10.1",
     "fgbg": "^0.1.4",
-    "typescript": "^3.9.6"
+    "typescript": "^3.9.7"
   },
   "license": "MIT",
   "dependencies": {}
