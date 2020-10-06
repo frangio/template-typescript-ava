@@ -15,7 +15,7 @@
     "test:watch": "fgbg 'ava --watch' 'tsc --watch'"
   },
   "devDependencies": {
-    "@types/node": "^10.17.36",
+    "@types/node": "^10.17.37",
     "ava": "^3.13.0",
     "fgbg": "^0.1.4",
     "typescript": "^3.9.7"
