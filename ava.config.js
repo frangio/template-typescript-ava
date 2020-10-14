@@ -1,9 +1,5 @@
 export default {
-  ignoredByWatcher: ['**/*.ts'],
   verbose: true,
-  typescript: {
-    rewritePaths: {
-      'src/': 'dist/'
-    },
-  },
+  ignoredByWatcher: ['**/*.{ts,map,tsbuildinfo}'],
+  typescript: { rewritePaths: { 'src/': 'dist/' } },
 };
