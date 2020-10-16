@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@ava/typescript": "^1.1.1",
-    "@types/node": "^10.17.39",
+    "@types/node": "^10.17.40",
     "ava": "^3.13.0",
     "fgbg": "^0.1.4",
     "typescript": "^3.9.7"
