@@ -11,6 +11,7 @@
   ],
   "scripts": {
     "prepare": "tsc",
+    "prepublish": "rimraf dist",
     "test": "tsc && ava",
     "test:watch": "fgbg 'ava --watch' 'tsc --watch'"
   },
@@ -19,6 +20,8 @@
     "@types/node": "^10.17.41",
     "ava": "^3.13.0",
     "fgbg": "^0.1.4",
+    "mocha": "^8.2.0",
+    "rimraf": "^3.0.2",
     "typescript": "^3.9.7"
   },
   "license": "MIT",
