@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@ava/typescript": "^1.1.1",
-    "@types/node": "^10.17.50",
+    "@types/node": "^10.17.51",
     "ava": "^3.15.0",
     "fgbg": "^0.1.5",
     "mocha": "^8.2.1",
