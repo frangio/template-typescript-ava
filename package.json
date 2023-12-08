@@ -22,7 +22,7 @@
     "ava": "^4.3.3",
     "mocha": "^9.2.2",
     "rimraf": "^3.0.2",
-    "ts-node": "^10.9.1",
+    "ts-node": "^10.9.2",
     "typescript": "^4.9.5"
   },
   "license": "MIT"
